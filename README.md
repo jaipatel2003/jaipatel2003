@@ -8,8 +8,10 @@
 ## Experience
 Summer 2022: Worked as a Software and IT Intern with [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
 
-## LinkedIn
+## Communications
 Connect with me! [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)
+
+Email me! jaipatel2003@gmail.com
 
 ## Languages, Operating Systems, Tools
 :heavy_check_mark: Python, Java, C/C++, Lisp, MATLAB
