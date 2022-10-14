@@ -5,6 +5,9 @@
 
 :writing_hand: I'm currently seeking internship/co-op positions for summer 2023 
 
+## Experience
+Summer 2022: Worked as a Software and IT Intern with [MIT Lincoln Laboratory](https://www.ll.mit.edu/) 
+
 ## LinkedIn
 Connect with me! [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)
 
