@@ -16,4 +16,6 @@ Connect with me! [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)
 :heavy_check_mark: Linux (WSL, Red Hat Enterprise, LUKS), Windows 10, MacOS
 
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaipatel2003)](https://github.com/anuraghazra/github-readme-stats)
