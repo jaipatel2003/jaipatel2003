@@ -9,19 +9,9 @@
 Connect with me! [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)
 
 ## Languages, Operating Systems, Tools
-:heavy_check_mark: Python
+:heavy_check_mark: Python, Java, C/C++, Lisp, MATLAB
 
-:heavy_check_mark: Java
-
-:heavy_check_mark: C/C++
-
-:heavy_check_mark: Lisp
-
-:heavy_check_mark: Docker
-
-:heavy_check_mark: Kubernetes
-
-:heavy_check_mark: Ansible
+:heavy_check_mark: Docker, Kubernetes, Ansible, YAML
 
 :heavy_check_mark: Linux (WSL, Red Hat Enterprise, LUKS), Windows 10, MacOS
 
