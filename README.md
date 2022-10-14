@@ -5,5 +5,5 @@
 
 :writing_hand: I'm currently seeking internship/co-op positions for summer 2023 
 
-### LinkedIn
+# LinkedIn
 Connect with me! [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)
