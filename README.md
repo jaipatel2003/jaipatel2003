@@ -9,7 +9,7 @@
 Summer 2022: Software and IT Intern with [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
 
 ## Communications
-Connect with me! [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)!
 
 Email me! jaipatel2003@gmail.com
 
