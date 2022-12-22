@@ -14,9 +14,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/
 Email me! jaipatel2003@gmail.com
 
 ## Languages, Operating Systems, Tools
-:heavy_check_mark: Python, Java, C/C++, Lisp, MATLAB
+:heavy_check_mark: Python, Java, C/C++, Lisp, MATLAB, JavaScript
 
-:heavy_check_mark: Docker, Kubernetes, Ansible, YAML
+:heavy_check_mark: Docker, Kubernetes, Ansible, YAML, AWS, React.js/Node.js
 
 :heavy_check_mark: Linux (WSL, Red Hat Enterprise, LUKS), Windows 10, MacOS
 
