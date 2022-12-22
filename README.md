@@ -22,10 +22,15 @@ Email me! jaipatel2003@gmail.com
 
 ## Relevant Coursework
 Software Engineering
+
 Introduction to Artificial Intelligence
+
 Analysis of Algorithms
+
 Object-Oriented Design Concepts
+
 Algorithms
+
 Systems Programming Concepts
 
 
