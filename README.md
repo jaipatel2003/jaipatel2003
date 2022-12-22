@@ -20,6 +20,13 @@ Email me! jaipatel2003@gmail.com
 
 :heavy_check_mark: Linux (WSL, Red Hat Enterprise, LUKS), Windows 10, MacOS
 
+## Relevant Coursework
+Software Engineering
+Introduction to Artificial Intelligence
+Analysis of Algorithms
+Object-Oriented Design Concepts
+Algorithms
+Systems Programming Concepts
 
 
 
