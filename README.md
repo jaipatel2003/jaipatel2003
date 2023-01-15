@@ -1,4 +1,4 @@
-## Hey, I'm Jai 👋
+## Hey, I'm Jai Patel, an aspiring Software Engineer👋
 :man_technologist: I'm Jai Patel, a Computer Science student at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI)
 
 :crystal_ball: I'm interested in AI, applications of ML in healthcare, and DevOps 
