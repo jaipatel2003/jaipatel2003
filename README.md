@@ -6,7 +6,7 @@
 :writing_hand: I'm currently seeking internship/co-op positions for summer 2023 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 ## Work Experience
 Summer 2022: Software and IT Intern at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
