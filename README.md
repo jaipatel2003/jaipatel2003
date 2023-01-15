@@ -9,9 +9,9 @@
 Summer 2022: Software and IT Intern at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
 
 ## Communications
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)!
+:link: Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)!
 
-Email me! jaipatel2003@gmail.com
+:email: Email me! jaipatel2003@gmail.com
 
 ## Languages, Tools, Operating Systems
 :heavy_check_mark: Python, Java, C/C++, Lisp, MATLAB, JavaScript
