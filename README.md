@@ -29,6 +29,8 @@ Software Engineering
 
 Introduction to Artificial Intelligence
 
+Operating Systems
+
 Analysis of Algorithms
 
 Object-Oriented Design Concepts
