@@ -9,7 +9,7 @@
 ## Work Experience
 Summer 2022: Software and IT Intern at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
 
-Summer 2023: Software Engineering TechStart Intern at [Liberty Mutual](https://www.libertymutual.com/) :statue_of_liberty:
+Summer 2023: Incoming Software Engineering TechStart Intern at [Liberty Mutual](https://www.libertymutual.com/) :statue_of_liberty:
 
 ## Communications
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-c-patel-063a6a211/)!
