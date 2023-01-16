@@ -1,5 +1,5 @@
 ## Hey, I'm Jai Patel, an aspiring Software Engineer 👨‍💻
-I'm Jai Patel, a Computer Science student at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI)
+Computer Science Student at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI)
 
 I'm interested in AI, applications of ML in healthcare, and DevOps 
 
