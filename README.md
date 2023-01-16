@@ -3,8 +3,6 @@
 
 :crystal_ball: I'm interested in AI, applications of ML in healthcare, and DevOps 
 
-:writing_hand: I'm currently seeking internship/co-op positions for summer 2023 
-
 
 ## Work Experience
 Summer 2022: Software and IT Intern at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
