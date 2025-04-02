@@ -11,7 +11,7 @@ Summer 2023: Software Engineering TechStart Intern at [Liberty Mutual](https://w
 
 Fall 2023: Machine Learning Intern at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) :rocket: 
 
-Summer 2024: Software Engineering & Cybersecurity Intern at [Department of Defense](https://defense.gov) 🦅:
+Summer 2024: Software Engineering & Cybersecurity Intern at [Department of Defense](https://www.defense.gov) 🦅
 
 
 ## Communications
